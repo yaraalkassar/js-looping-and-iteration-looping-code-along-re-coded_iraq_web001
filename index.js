@@ -2,8 +2,7 @@
 function writeCards(arr,message) {
   for(i=0;i<arr.length;i++)
   {
-    console.log("Thank you, ${arr[i]}, for the wonderful $message  gift!");
-
+  return  console.log("Thank you, ${arr[i]}, for the wonderful $message  gift!");
   }
 }
 
